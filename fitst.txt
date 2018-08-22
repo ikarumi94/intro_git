@@ -2,3 +2,4 @@ Gitの練習をしていきます．
 基本的な内容を記述していきます．
 ・git add
 ・git commit
+・git rm
